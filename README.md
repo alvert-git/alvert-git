@@ -11,18 +11,19 @@ I build **robust web applications** using the **MERN/Next.js stack** and drive i
 | Category | Core Tools | Icons |
 | :--- | :--- | :--- |
 | **Full-Stack** | **React, Next.js, Node.js, Express, FastAPI** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi" alt="Web Stack Icons" width="150"/> |
-| **Data & ML** | **Python, Pandas, NumPy, TensorFlow, PyTorch** | <img src="https://skillicons.dev/icons?i=python,pandas,numpy,tensorflow,pytorch" alt="Data/ML Icons" width="150"/> |
 | **Databases** | **SQL** (PostgreSQL, MySQL), **MongoDB** | <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="DB Icons" width="60"/> |
+| **Data & ML** | **Python, Pandas, NumPy, TensorFlow, PyTorch** | <img src="https://skillicons.dev/icons?i=python,pandas,numpy,tensorflow,pytorch" alt="Data/ML Icons" width="150"/> |
 
 ---
 
 ### Featured Project
-
+<div align="left">
 <p align="center">
   <a href="https://github.com/alvert-git/MERN-Ecommerce">  
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvert-git&repo=MERN-Ecommerce&theme=radical&hide_border=true" alt="Featured Repository Card" />
   </a>
 </p>
+</div>
 
 ## 🔗 Connect
 
