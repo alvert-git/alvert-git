@@ -19,12 +19,13 @@ I build **robust web applications** using the **MERN/Next.js stack** and drive i
 ### Featured Project
 
 <p align="center">
-  <!-- 🚨 IMPORTANT: Replace YOUR_GITHUB_USERNAME and YOUR_REPO_NAME with the actual values -->
+  <a href="https://github.com/alvert-git/MERN-Ecommerce">  
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvert-git&repo=MERN-Ecommerce&theme=radical&hide_border=true" alt="Featured Repository Card" />
+  </a>
 </p>
 
 ## 🔗 Connect
 
-* **LinkedIn:** [Connect with Me]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/albert-belbase-a8a666281/)
+* **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/albert-belbase-a8a666281/)
 * **Portfolio:** [Visit my Projects](https://github.com/alvert-git)
 * **Email:** [mail me](mailto:albertbelbase018@gmail.com)
