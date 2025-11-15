@@ -25,6 +25,6 @@ I build **robust web applications** using the **MERN/Next.js stack** and drive i
 
 ## 🔗 Connect
 
-* **LinkedIn:** [Connect with ABc BelCas]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/albert-belbase-a8a666281/))
+* **LinkedIn:** [Connect with Me]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/albert-belbase-a8a666281/)
 * **Portfolio:** [Visit my Projects](https://github.com/alvert-git)
-* **Email:** [albse01@gmail.com](mailto:albertbelbase018@gmail.com)
+* **Email:** [mail me](mailto:albertbelbase018@gmail.com)
